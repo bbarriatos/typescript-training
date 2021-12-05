@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bbarriatos/typescript-training#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "ts-node": "^10.4.0"
   }
 }
